@@ -1,12 +1,4 @@
-# idor-lab-writeup
-write up and notes for an IDOR vulnerability lab
-idor-lab-writeup/
-│
-├── README.md
-├── screenshots/
-│   └── idor-lab.jpg
-└── notes/
-    └── findings.md**# Insecure Direct Object Reference (IDOR) Lab
+# Insecure Direct Object Reference (IDOR) Lab
 
 ## Overview
 
