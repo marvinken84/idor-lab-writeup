@@ -79,7 +79,7 @@ To prevent IDOR vulnerabilities:
 - Web application security
 - Access control testing
 - HTTP request analysis
-- Vulnerability assessment
+- Vulnerability assessmentS
 
 ---
 
